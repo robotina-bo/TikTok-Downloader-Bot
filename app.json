@@ -9,7 +9,7 @@
     "tiktok",
     "jaybee"
   ],
-  "repository": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot",
+  "repository": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot ",
   "website": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot",
   "env": {
     "BOT_TOKEN": {
